@@ -1,0 +1,29 @@
+@import 'documentation.css';
+
+.collapse-icon{
+	float:none;
+	} 
+.section_title{
+	display:inline !important; 
+}
+.topictitle2 {
+	display:inline !important; 
+}
+.subsectiontitle {
+	display:inline !important; 
+}
+/* .tasklabel  {
+	display:inline !important; 
+}  */
+.sectiontitle {
+	display:inline !important; 
+} 		  
+div.section img.collapse-icon{
+	float:left;
+}
+div.example img.collapse-icon{
+	float:left;
+}
+div.sectiontitle img.collapse-icon{
+	float:left;
+} 
