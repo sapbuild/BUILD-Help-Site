@@ -52,7 +52,10 @@ $(function () {
       "toolTip": $("#im9").attr("title")},
     {
       "key": "im10",
-      "toolTip": $("#im10").attr("title")}]}
+      "toolTip": $("#im10").attr("title")},
+    {
+      "key": "im11",
+      "toolTip": $("#im11").attr("title")}]}
 		);
 		
 		$('div[id="loio063d2774577a40d48286f0ae33529d90____im_imagemap1"] area').each(function() {
@@ -70,8 +73,8 @@ $(function () {
 		$('div[id$="subsection-im0"]').show();
 	
 		$( "#loio063d2774577a40d48286f0ae33529d90__im_imagewrapper1" ).mouseenter(function() {  
-		if ($('#loio063d2774577a40d48286f0ae33529d90__main').width() < 677){	
-		$('#loio063d2774577a40d48286f0ae33529d90__main').mapster('resize',677,0,200);  
+		if ($('#loio063d2774577a40d48286f0ae33529d90__main').width() < 464){	
+		$('#loio063d2774577a40d48286f0ae33529d90__main').mapster('resize',464,0,200);  
 			}
 			});
 			
