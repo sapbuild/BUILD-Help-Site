@@ -64,8 +64,8 @@ $(function () {
 		$('div[id$="subsection-im0"]').show();
 	
 		$( "#loio4034a659577d4d5fa725af4c3525eb2d__im_imagewrapper1" ).mouseenter(function() {  
-		if ($('#loio4034a659577d4d5fa725af4c3525eb2d__main').width() < 574){	
-		$('#loio4034a659577d4d5fa725af4c3525eb2d__main').mapster('resize',574,0,200);  
+		if ($('#loio4034a659577d4d5fa725af4c3525eb2d__main').width() < 566){	
+		$('#loio4034a659577d4d5fa725af4c3525eb2d__main').mapster('resize',566,0,200);  
 			}
 			});
 			
