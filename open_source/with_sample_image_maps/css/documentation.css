@@ -1360,7 +1360,7 @@ tr.row.row_separator{
 /* Rotate */
 th.rotate {
   /* Something you can count on */
-  height: 140px;
+  height: 50px;
   white-space: nowrap;
   max-width: 100px;
   background-color: #FFF;
@@ -1392,8 +1392,10 @@ th.rotate > div > span {
   padding: 5px 10px;
   /* new */
   position: relative;
-  left: -48px;
-  top: 43px;
+  left: 15px;
+  top: -21px;
+  /*left: -48px;
+  top: 43px;*/
   *left: 0px;
   *top: 0px;
   *border-bottom: none;
